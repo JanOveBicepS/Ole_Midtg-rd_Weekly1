@@ -1,0 +1,15 @@
+﻿'Ole_Midtgård_Weekly1.exe' (Win32): Loaded 'C:\Users\olemr\source\repos\Ole_Midtgård_Weekly1\x64\Debug\Ole_Midtgård_Weekly1.exe'. Symbols loaded.
+'Ole_Midtgård_Weekly1.exe' (Win32): Loaded 'C:\windows\System32\ntdll.dll'. 
+'Ole_Midtgård_Weekly1.exe' (Win32): Loaded 'C:\windows\System32\kernel32.dll'. 
+'Ole_Midtgård_Weekly1.exe' (Win32): Loaded 'C:\windows\System32\KernelBase.dll'. 
+'Ole_Midtgård_Weekly1.exe' (Win32): Loaded 'C:\windows\System32\msvcp140d.dll'. 
+'Ole_Midtgård_Weekly1.exe' (Win32): Loaded 'C:\windows\System32\vcruntime140d.dll'. 
+'Ole_Midtgård_Weekly1.exe' (Win32): Loaded 'C:\windows\System32\vcruntime140_1d.dll'. 
+'Ole_Midtgård_Weekly1.exe' (Win32): Loaded 'C:\windows\System32\ucrtbased.dll'. 
+The thread 0xf74 has exited with code 0 (0x0).
+'Ole_Midtgård_Weekly1.exe' (Win32): Loaded 'C:\windows\System32\kernel.appcore.dll'. 
+'Ole_Midtgård_Weekly1.exe' (Win32): Loaded 'C:\windows\System32\msvcrt.dll'. 
+'Ole_Midtgård_Weekly1.exe' (Win32): Loaded 'C:\windows\System32\rpcrt4.dll'. 
+The thread 0x1fe4 has exited with code 0 (0x0).
+The thread 0x4e70 has exited with code 0 (0x0).
+The program '[20024] Ole_Midtgård_Weekly1.exe' has exited with code 0 (0x0).
