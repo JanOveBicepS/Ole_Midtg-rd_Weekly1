@@ -1,7 +1,6 @@
 //Ask for full name, initial, age, phone number and date of birth;
 #include <iostream>
 #include <string>
-#include <limits>
 
 
 
@@ -12,22 +11,22 @@ int main() {
 	std::getline(std::cin, name);
 
 
-	std::cout << name << ", What is the initial to your first name?\n";
+	std::cout << name << ", what is the initial to your first name?\n";
 	char initial{};
     std::cin >> initial;
 
 
-	std::cout << name << ", What is your age?\n";
+	std::cout << name << ", what is your age?\n";
 	int age{};
 	std::cin >> age;
 
 
-	std::cout << name << ", What is your phone number?\n";
+	std::cout << name << ", what is your phone number?\n";
 	int phone{};
 	std::cin >> phone;
 
 
-	std::cout << name << ", What is your date of birth?\n";
+	std::cout << name << ", what is your birthday?\n";
 	std::string birth{};
 	std::cin >> birth;
 
